@@ -1,1 +1,1 @@
-aliyunsdkrds
+aliyun-python-sdk-rds
